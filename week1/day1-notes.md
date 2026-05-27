@@ -37,7 +37,7 @@
 
 ## Wireshark Findings
 
-<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/4c6cac2c-0225-4cbf-88d6-d4b50bc9d5a8" />
+<img width="940" height="478" alt="image" src="https://github.com/user-attachments/assets/26ad4348-03b1-47a0-a509-f9997ffd4246" />
 
 - Mostly observed UDP traffic
 - Saw DNS requests
