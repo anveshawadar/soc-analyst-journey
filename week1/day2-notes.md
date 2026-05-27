@@ -68,7 +68,18 @@ nmap -sS 127.0.0.1
 ```text
 tcp.flags.syn == 1
 ```
+---
 
+## Screenshots
+
+### DNS Query Capture
+![DNS Query](screenshots/dns-query.jpeg)
+
+### MX Record Lookup
+![MX Record](screenshots/mx-record.jpeg)
+
+### SYN Packet Filter
+![SYN Filter](screenshots/syn-filter.jpeg)
 ## What I Learned Today
 
 - How DNS resolution works
