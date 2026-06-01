@@ -17,9 +17,3 @@ Building SOC analyst skills over 90 days.
 - Linux basics
 - SOC analyst workflow
 
-## Week 1 Progress
-### Day 1
-- Learned OSI model basics
-- Studied packets and protocols
-- Installed and explored Wireshark
-- Observed UDP traffic in packet captures
