@@ -1,0 +1,19 @@
+# Day 2 - Networking Fundamentals
+
+## Topics Covered
+- Networking basics
+- IP addressing
+- Linux networking commands
+- OSI model introduction
+
+## Tools Used
+- Ubuntu VM
+- Windows CMD
+- TryHackMe
+
+## Key Learnings
+- Understood LAN vs WAN
+- Learned public vs private IP
+- Practiced Linux networking commands
+- Understood OSI model flow
+- Explored client-server communication
