@@ -1,0 +1,20 @@
+# Day 3
+
+## Topics:
+- TCP/IP
+- DNS
+- DHCP
+- Ports
+- Linux CLI
+
+## Tools:
+- Ubuntu
+- CMD
+- TryHackMe
+
+## What I Learned:
+- Learned how TCP/IP enables communication
+- Understood DNS resolving domain names to IP
+- Learned DHCP assigns IP automatically
+- Explored common network ports and services
+- Practiced Linux CLI commands for file and system operations
