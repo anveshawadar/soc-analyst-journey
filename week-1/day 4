@@ -1,0 +1,31 @@
+# Day 4
+
+## Topics Covered
+
+- OSI Model
+- Subnet Basics
+- Wireshark Introduction
+- Packet Capture
+- Protocol Filtering
+
+## Tools Used
+
+- Wireshark
+- Windows CMD
+- Ubuntu
+- VirtualBox
+
+## Protocols Observed
+
+- DNS
+- TCP
+- UDP
+- ICMP
+
+## Key Learnings
+
+- Learned how packet captures work
+- Investigated ICMP traffic
+- Used Wireshark filters
+- Identified source and destination IP addresses
+- Performed first network investigation
